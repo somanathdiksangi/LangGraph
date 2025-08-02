@@ -1,0 +1,2 @@
+// dependencies matlab hai kis directry kam kar raha hai and graphs matlab hai ham kis file ko
+ debugging kar na chatya hai and konsa function ko then env ka matlab kis folder or directry mai mara env api key hai
