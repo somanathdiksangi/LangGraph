@@ -14,3 +14,7 @@ class graph:
         self.graph_bilder.add_node("chatbot",self.basic_chatbot.process)
         self.graph_bilder.add_edge(START,'chatbot')
         self.graph_bilder.add_edge('chatbot',END)
+
+    def setup_graph(self,usecase):
+        if usecase =="Basic Chatbot":
+            self.basic_chatbot()
